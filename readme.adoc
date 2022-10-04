@@ -1,0 +1,82 @@
+= Hack RF 1 Portapack V2.0<+++br+++>Zero to almost Hero
+John Schuster <John.schuster@PhoenixWorkgroup.com>
+v2.1b, 10/04/2022: Blog Post
+:Author: John HR Schuster
+:Company: GeekMustHave
+:toc: left
+:toclevels: 4
+:title-page:
+:title-logo-image: ./images/create-doco_gmh-Standard-cover.png
+:imagesdir: ./images
+:docsdir: ./documents
+:filesdir: ./files
+:pagenums:
+:numbered: 
+:chapter-label: 
+:experimental:
+:source-hightlighter: highlight.js
+:highlightjs-languages: arduino,asciidoc,bash,basic,css,html,javascript,json,perl,php,powershell,python,ruby,sql,shell,text,vba,vbscript,yaml
+:icons: font
+:github: https://github.com/GeekMustHave/HackRF
+:web-ste: https://OpenStuff.pwc-lms.com/BlogPosts/HackRF
+:linkattrs:
+:seclinks:
+:description: Metatag description \
+more description
+:author: John HR Schuster
+:keywords: p-pageTags
+:email: GeekMustHave@PhoenixWorkgroup.com
+:hugo: true
+:page-title: Hack RF 1 Portapack V2.0<+++br+++>Zero to almost Hero
+:page-image: ./images/create-doco_gmh-Standard-cover.png
+:page-tags: p-pageTags
+:page-Date: 10/04/2022
+
+Preamble paragraph goes here
+
+To view a PDF version of this document click this link:./readme.pdf[Link]
+
+The GitHub Repository is located at this link:{github}[Link, window='_blank']
+
+The GeekMustHave Blog Post is located at this link:{web-site}[Link,window='_blank']
+
+
+== Introduction
+
+
+== References
+
+
+<<<<
+== Document History
+
+.Document History
+[cols='2,2,2,6' options='header']
+|===
+| Date  | Version | Author | Description
+| 10/04/2022 | V2.1b | JHRS |  Initial version
+|===
+
+////
+NOTE: This Create-Doco script can work with Microsoft Visual Studio code.
+There are a set of Command snippets for quickly entering blocks of ASCIIDoc code
+using Ctrl-Space-z which call us a list of the ASCIIDOC 
+
+A copy of those snippets are in the file (asciidoc.json)
+////
+
+
+////
+This template created by GeekMustHave
+01/30/2022  Update for GMH better notes usage
+            Added VSCode Snippet file for ASCIIDoc
+04/30/2021  Update for simple blog posts, changes parms to p-parmname
+03/14/2021  First good update, prep for Hugo
+02/12/2019  Initial version
+////
+
+
+
+
+
+
