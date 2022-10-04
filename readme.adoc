@@ -1,4 +1,4 @@
-= Hack RF 1 Portapack V2.0<+++br+++>Zero to almost Hero
+  = Hack RF 1 Portapack V2.0+++<br>+++Zero to almost Hero
 John Schuster <John.schuster@PhoenixWorkgroup.com>
 v2.1b, 10/04/2022: Blog Post
 :Author: John HR Schuster
@@ -32,7 +32,15 @@ more description
 :page-tags: p-pageTags
 :page-Date: 10/04/2022
 
-Preamble paragraph goes here
++++<br>+++
+
+The Hack RF, Portapack is a new piece of kit for my Amateur Radio (HAM) collection.
+I know shit about how to use this device but I do have HAM experience with Software Defined Radio <<SDR>>.
+Maybe something I document here will help others.
+
+image::HackRFOrderImage.png[HackRFOrderImage, alt='HackRFOrderImage', align='center']
+ 
+
 
 To view a PDF version of this document click this link:./readme.pdf[Link]
 
@@ -42,6 +50,57 @@ The GeekMustHave Blog Post is located at this link:{web-site}[Link,window='_blan
 
 
 == Introduction
+
+I purchased a HackRF Portapack device from AliExpress in September 2022.  
+SDR radio has been a pastime of mine and I wanted a device I could use stand-alone, without a Tablet or PC.
+
+As with any new device, there is a learning curve, which if documented will help me in 6 months when I come back to this.
+This is a pseudo blog article but, without any real concern for Grammar, spelling, and the like.  
+Its content is raw and simple.  Copies of any files, videos, manuals, or other information will be available from this document.
+
+[NOTE]
+This document was created using Visual Studio Code and a Markup/Markdown language known as ASCIIDoctor <<ADOC>>.
+This is my primary way of writing documentation, blogs, and instructions.
+I am not a writer, I am an engineer, and pride myself in not using Word for this type of work.
+I have quite a bit of assets to help using this documentation toolchain easier.
+
+== Instructions
+
+As expected there was one page of instructions see Link
+There were pretty much useless.
+The Aliexpress link had a paragraph on how to start the LONG journey for instructions.
+
+.AliExpress instructions link
+image::ManualLink.png[AliExpress instructions link, alt='Alt Tag', align='center']
+
+REFERENCE: Telegram Software link  https://t.me/OpenSourceSDRLab[Telegram, window=_new]
+
+REFERENCE: Telegram group link https://t.me/joinchat/MrUQFRcNG0xjYTg1[Telegram SDR Group Link, window=_new]
+
+ 
+In order to get instructions, you have to install <<Telegram>> on your mobile device and your PC and link them together using QR Codes
+and wave a dead chicken above your head while reciting the magic unknown words.
+<<Telegram>> is not the most secure messaging as it requests access to your phone numbers and contacts.
+
+.Telegram Security
+image::TelegramSecurity.png[Telegram Security, alt='Alt Tag', align='center']
+ 
+REFERENCE:  What data can Government get from https://www.telemessage.com/what-data-can-government-agencies-get-from-encrypted-services-such-as-whatsapp-telegram-and-imessage/[Telegram Security,window=_new]
+
+My plan is to get the damn manual and bail from <<Telegram>>.
+
+Your message should include order information probably because they don't want the instructions getting out in the Open.
+I will take care of that by including a link to those instructions from this document, for anyone in the Open to use them.
+What part of `OpenSource SDR` means the instructions need to be secured?
+
+.Telegram Message
+image::TelegramMessage.png[Telegram Message, alt='Alt Tag', align='center']
+ 
+
+== Turn HackRF off
+
+Nothing in the one-page instructions indicated how to turn the HackRF off.
+Turns out it is something simple, just double-click on the rotary dial, duh.
 
 
 == References
@@ -80,3 +139,5 @@ This template created by GeekMustHave
 
 
 
+
+  
